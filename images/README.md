@@ -5,6 +5,7 @@
 現在、次の生成画像をサイトに使用しています。
 
 - `hero-satoyama.png`：トップの里山と養蜂箱
+- `hero-satoyama-mobile.png`：スマートフォン用の縦長トップ
 - `nectar-flowers.png`：花・蜜源植物の春景色
 - `beekeeper-inspection.png`：巣枠を確認する養蜂の手仕事
 

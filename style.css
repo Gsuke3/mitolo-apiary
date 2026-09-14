@@ -25,3 +25,11 @@
   background-image:linear-gradient(rgba(25,47,36,.02),rgba(25,47,36,.08)),url("images/beekeeper-inspection.png");
   background-position:center 48%;
 }
+
+/* スマートフォンでは同じ里山の縦長版へ自動で切り替え */
+@media(max-width:860px){
+  .photo-hero{
+    background-image:linear-gradient(100deg,rgba(13,29,23,.58),rgba(13,29,23,.04)),url("images/hero-satoyama-mobile.png");
+    background-position:center center;
+  }
+}
